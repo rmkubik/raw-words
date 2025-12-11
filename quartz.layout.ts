@@ -6,12 +6,13 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [],
-  footer: Component.Footer({
-    links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
-    },
-  }),
+  footer: Component.Flex({ components: [] }),
+  // footer: Component.Footer({
+  //   links: {
+  //     // GitHub: "https://github.com/jackyzha0/quartz",
+  //     // "Discord Community": "https://discord.gg/cRFFHYye7t",
+  //   },
+  // }),
 }
 
 // components for pages that display a single page (e.g. a single note)
@@ -26,24 +27,35 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TagList(),
   ],
   left: [
-    Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [
         {
-          Component: Component.Search(),
+          Component: Component.PageTitle(),
           grow: true,
         },
-        { Component: Component.Darkmode() },
-        { Component: Component.ReaderMode() },
+        {
+          Component: Component.Darkmode(),
+        },
       ],
     }),
-    Component.Explorer(),
-  ],
-  right: [
-    Component.Graph(),
+    // Component.PageTitle(),
+    Component.MobileOnly(Component.Spacer()),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
+  ],
+  right: [
+    // Component.Flex({
+    //   components: [
+    //     {
+    //       Component: Component.Search(),
+    //       grow: true,
+    //     },
+    //     { Component: Component.Darkmode() },
+    //     { Component: Component.ReaderMode() },
+    //   ],
+    // }),
+    Component.Search(),
+    Component.Explorer(),
   ],
 }
 
