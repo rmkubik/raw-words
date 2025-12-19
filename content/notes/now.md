@@ -32,12 +32,12 @@ I'm trying to write about more honest things. I've tended to publish more "safe"
 
 I'm trying to finish making more games. I'm currently working on a successor to [[Terminal Escape]] and trying to be distracted less by new projects.
 ## thinking about
-Working under capitalism is super weird. I feel like I'm going mad watching people's excited reactions to the latest trends. Turns out, people have been thinking about weird our economic system is for a good long while now. 
+Working under capitalism is super weird. I feel like I'm going mad watching people's excited reactions to the latest nonsense. Turns out, people have been writing about this weirdness for a good long while now. I'm working on catching up now.
 
 Software. Computing. 
 
 Games.
 
-
+---
 
 [What's a now page?](https://nownownow.com/about)
