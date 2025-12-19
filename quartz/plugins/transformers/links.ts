@@ -32,6 +32,21 @@ const defaultOptions: Options = {
   externalLinkIcon: true,
 }
 
+/**
+ * I pulled this from:
+ * https://github.com/jackyzha0/quartz/issues/454#issuecomment-2583183163
+ *
+ * and specifically:
+ * https://github.com/soukouki/quartz/commit/4a72e733b3aceaab974e6c3455257fac26bffce9#diff-a404ec81c9bf6e7916f1fb548bfd0da2f45e661ecf800e10a439f0549e603fffR35-R42
+ */
+function isAvailableInternalLink(slug: SimpleSlug, allSlugs: FullSlug[]) {
+  // if the slug is the index, it's always available
+  if (slug.endsWith("index") || slug.endsWith("index.html") || slug.endsWith("/")) return true
+  // if the slug is the tags page, it's always available
+  if (slug.startsWith("tags/")) return true
+  return allSlugs.some((s) => s.startsWith(slug))
+}
+
 export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) => {
   const opts = { ...defaultOptions, ...userOpts }
   return {
@@ -123,6 +138,8 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
                   const simple = simplifySlug(full)
                   outgoing.add(simple)
                   node.properties["data-slug"] = full
+
+                  if (!isAvailableInternalLink(simple, ctx.allSlugs)) classes.push("missing")
                 }
 
                 // rewrite link internals if prettylinks is on
