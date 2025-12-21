@@ -3,7 +3,11 @@ tags:
   - public
 ---
 # 12/21/25
-I'm self conscious about making this one public. I feel passionately about this subject. I think my anger is misdirected (in some ways) because I haven't fully sorted out my feelings and thoughts. I hope that sharing writing I'm embarrassed of helps me continue sorting.
+I'm self conscious about making this one public. I feel passionately about this subject. I think my anger is misdirected (in some ways) because I haven't fully sorted out my feelings and thoughts. 
+
+I know people who like and have worked on VR. I like and respect their feelings/work. I don't like how this entry puts me in a position of hostility toward them. I feel like I'm taking a more extreme position in this entry than my true feelings.
+
+I hope that sharing writing I'm embarrassed of helps me continue sorting this out though.
 
 # 11/17/25
 I think VR is just kind of a fundamentally silly technology. I think it comes from a perspective on technology and gaming that I think is fundamentally dystopian. A focus on immersion seems more about a dream of selling ad space and escaping from a shitty reality.
