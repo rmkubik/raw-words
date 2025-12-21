@@ -302,6 +302,13 @@ a {
         margin-right: 0;
         margin-left: 0;
       }
+
+      // Prevent background texture from obscuring article text by
+      // using solid background color. Add a little padding to ease
+      // transition into solid background.
+      background: var(--light);
+      padding-left: 1rem;
+      padding-right: 1rem;
     }
     & footer {
       margin-left: 0;
