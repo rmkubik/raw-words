@@ -34,7 +34,7 @@ I'm trying to finish making more games. I'm currently working on a successor to 
 ## thinking about
 Working under capitalism is super weird. I feel like I'm going mad watching people's excited reactions to the latest nonsense. Turns out, people have been writing about this weirdness for a good long while now. I'm working on catching up now.
 
-Software. Computing. 
+Software. [[Computing]]. 
 
 Games.
 
