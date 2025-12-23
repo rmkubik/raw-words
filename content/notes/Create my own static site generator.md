@@ -2,7 +2,6 @@
 tags:
   - public
 ---
-
 # 12/21/25
 I feel inspired by Reed's post here: https://henderson.lol/pages/hire/psg
 - He built his website with a 99 line Python static site generator that he wrote himself
@@ -16,9 +15,9 @@ Some tech I think would be useful:
 - [[gray-matter]] - parse front matter
 - [[remark]] - ecosystem for markdown parsing
 
-I've always used [[React]] for web dev. I still think it is a useful technology. It also feels like overkill in a lot of places. I'd like to try alternatives. I haven't really enjoyed using templating stuff in the past. Things like PHP templates, [[11ty]], handlebars. That said, I'm interested in giving them another shot... they just seem like a more "correct" choice than trying to render my React code statically.
+I've always used [[React]] for web dev. I still think it is a useful technology. It also feels like overkill in a lot of places. I'd like to try alternatives. [[I'm not a huge fan of templating technologies]]. Things like PHP templates, [[Eleventy]], handlebars. That said, I'm interested in giving them another shot... they just seem like a more "correct" choice than trying to render my React code statically.
 - I'm curious about [[eta.js]] for little embedded JS in documents: https://github.com/bgub/eta
 - I used [[pug]] a good bit in [[TwilioQuest]] and didn't really love it. We used it in a pretty unconventional use case though.
-- I think [[11ty]] uses [[nunjucks]] under the hood and I didn't really like using that tool either. Maybe nunjucks is actually fine and its just 11ty I disliked.
+- I think [[Eleventy]] uses [[nunjucks]] under the hood and I didn't really like using that tool either. Maybe nunjucks is actually fine and its just 11ty I disliked.
 
 I have used [[MDX]] in my blog posts in the past. I feel like that is probably overkill as well.
