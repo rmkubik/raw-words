@@ -1,3 +1,13 @@
+# To publish:
+
+Copy #public tagged files from my personal notes into the `content` dir of this project
+
+```bash
+bun scripts/copy-public-files.ts ~/Google\ Drive/notes/personal
+```
+
+Push a new git commit to kick off a publish build. This will run in Netlify and go live at https://words.ryankubik.com.
+
 # Quartz v4
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming

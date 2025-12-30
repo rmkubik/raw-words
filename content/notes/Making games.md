@@ -22,6 +22,7 @@ tags:
 - [[Spend time on making good authoring tools]]
 - [[What is approachability?]]
 - [[Even in games hardly anyone takes games seriously]]
+- [[Should you be wary of overfitting to your own taste?]]
 
 # Feelings
 - [[I want to ship ship ship]]

@@ -2,6 +2,28 @@
 tags:
   - public
 ---
+# 12/29/25
+- ~~rss feed~~
+- ~~Read time~~
+- ~~Code formatting~~
+- Article preview 
+- ~~Hot reload~~ 
+- CSS files 
+- Js files
+- Js build step?
+- expose pipeline configuration?
+- Comments? Web mentions?
+- Octothorpes?
+- lit.js?
+- alpine.js?
+
+I added prismjs for code formatting via CDN in the blog layout. I think my ideal would be to add a JS build step to this process? I'm not sure exactly what that should look like. I guess if you used this SSG you could just set up your own build process and output your built files into our dir and then we could just process them as if they were normal files.
+
+[[What to name your feed URL?]]
+
+Some potentially interesting remark/rehype plugins:
+- https://github.com/mdx-js/mdx/blob/000460532e6a558693cbe73c2ffdb8d6c098a07b/website/mdx-loader.js
+
 # 12/21/25
 I feel inspired by Reed's post here: https://henderson.lol/pages/hire/psg
 - He built his website with a 99 line Python static site generator that he wrote himself

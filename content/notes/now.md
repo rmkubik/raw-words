@@ -13,10 +13,9 @@ A few favorite reads from this year have been [[Winners Take All]], [[Code]], an
 
 I'm slowly trying to chip away at the [[Hugo Award Winners]] for best novel.
 ## playing
-I'm playing [[Despelote]], [[Slice & Dice]], and [[Mechabellum]] right now.
+I'm playing [[Slice & Dice]] and [[Mechabellum]] right now.
 
 I'm getting ready for my friends' end of the year [GOTY discussions](https://ryankubik.com/blog/2024-what-i-played). I'm looking forward to playing more over the holidays. These are some I'm interested in checking out.
-- [[Consume Me]]
 - [[Skin Deep]]
 - [[s.p.l.i.t.]]
 - [[The Drifter]]

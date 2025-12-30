@@ -2,6 +2,8 @@
 tags:
   - public
 ---
+# 12/27/25
+- [[December Adventure]]
 # 12/21/25
 - [[Resonant Computing Manifesto]]
 - [[Create my own static site generator]]
