@@ -7,7 +7,7 @@ I'm living in Portland, OR.
 
 I've been playing pickleball, ping pong, and bouldering for exercise lately.
 ## reading
-I'm currently reading [[Algorithms to Live By]], [[Tidy First?]], and [[Blindsight]].
+I'm currently reading [[Algorithms to Live By]], [[On Tyranny]], and [[Nettle & Bone]].
 
 A few favorite reads from this year have been [[Winners Take All]], [[Code]], and [[A Desolation Called Peace]].
 
