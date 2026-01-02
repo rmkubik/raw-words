@@ -18,7 +18,7 @@ These problems are primarily:
 		- It feels very hard to signal this issue. We ran into this a lot in [[Wildfire Swap]] where players would undo up to a move they were SURE was correct... But it was not.
 - [[Tiny Tactics]] has a different, related solution for this problem. After every move, your units perform their action. This might still lend itself to a puzzly tactics game, but I think it's interesting. EVERY move is tied to an action. You need to consider friendly fire and zugzwang and a lot of other interesting ideas. Tiny Tactics units are also single tile entities, which I think makes make movement design much easier than in Status Code.
 - As far as I can tell, the difference between a tactics game and a puzzle game is the degree of "mushiness" or "fuzziness" in the solution to a level. Tactics games allow for a variety of approaches. Puzzle games usually force a particular solution.
-	- I think these feelings of "what I thought was clever worked === tactics game" and "the developer is forcing me into doing something === puzzle game" is way more important than the actual truth of the game's design.
+	- I think these feelings of "what I thought was clever worked = tactics game" and "the developer is forcing me into doing something = puzzle game" is way more important than the actual truth of the game's design.
 
 The original [[Status Code]] had tiny levels and felt more like a puzzle game than a tactics game... I didn't like this because I was _trying_ to make a tactics game. Not a puzzle game. Upon further reflection and distance though, I'm thinking that might just be the way to go for this game's mechanics.
 
