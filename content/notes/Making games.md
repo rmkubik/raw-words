@@ -23,6 +23,7 @@ tags:
 - [[What is approachability?]]
 - [[Even in games hardly anyone takes games seriously]]
 - [[Should you be wary of overfitting to your own taste?]]
+- [[Problems with Tactics Games and Status Code v2]]
 
 # Feelings
 - [[I want to ship ship ship]]
@@ -37,7 +38,9 @@ tags:
 - [[Why do people get mad at video games?]]
 - [[Why do I struggle to play narrative heavy games?]]
 - [[When do cryptic pieces of media work for me?]]
+- [[I love Elden Ring cheese. How do you get that into a turn based game?]]
 
 # Assets/Resources
 - [[Itch.io Game Assets]]
 - [[Game Making Tools]]
+- [[Oblique Strategies]]
