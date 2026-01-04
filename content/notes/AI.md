@@ -2,6 +2,13 @@
 tags:
   - public
 ---
+# 1/3/26
+- [[LLMentalist]]
+- [[Hallucinations]]
+- [[AI summaries are almost certainly unreliable]]
+- [[ChatGPT Survey - Performance on NLP datasets]]
+- [[Modern software quality, or why I think using language models for programming is a bad idea]]
+- [[No Silver Bullet]]
 
 # 10/18/25
 - https://hojberg.xyz/the-programmer-identity-crisis/
