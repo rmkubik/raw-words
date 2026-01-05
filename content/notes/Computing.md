@@ -2,6 +2,10 @@
 tags:
   - public
 ---
+- [[AI]]
+
+# 1/4/25
+- [[Turing Complete User]]
 # 12/27/25
 - [[December Adventure]]
 # 12/21/25

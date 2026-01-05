@@ -2,6 +2,9 @@
 tags:
   - public
 ---
+# 1/4/26
+- [[Brandolini's Law]]
+
 # 1/3/26
 - [[LLMentalist]]
 - [[Hallucinations]]
