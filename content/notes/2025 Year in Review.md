@@ -33,6 +33,6 @@ A weekend spent scrolling feels like a waste. Is it? I guess as I start to have 
 
 In particular, I've been struggling to finish anywhere near as many game projects as I used to. I think this is equal parts an increase in my ambition and an inability to focus on games to completion. I think these probably go hand in hand. It is harder to finish larger games (duh?).
 
-I watched a talk on [[CorgiSpace]] about making games that work with your specific idiosyncratic grain. I think that could be a salve for me. I experienced this a bit this year with my new [words subdomain](words.ryankubik.com). I've never published as much writing as I want to, but I just started publishing my unfinished writing instead. It feels great so far.
+I watched a talk on [[CorgiSpace]] about making games that work with your specific idiosyncratic grain. I think that could be a salve for me. I experienced this a bit this year with my new [words subdomain](https://words.ryankubik.com). I've never published as much writing as I want to, but I just started publishing my unfinished writing instead. It feels great so far.
 
 I feel pretty good as I write this reflection. I'm largely happy with my year. My partner and I have gone through a lot of change, but I think it has mostly been good. I'd really like for 2026 to be a year of settling in and finding good rhythms. 
