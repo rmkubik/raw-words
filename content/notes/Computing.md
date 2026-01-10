@@ -4,6 +4,8 @@ tags:
 ---
 - [[AI]]
 
+# 1/9/26
+- [[Computational kindness]]
 # 1/4/25
 - [[Turing Complete User]]
 # 12/27/25
