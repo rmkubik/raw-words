@@ -7,19 +7,15 @@ I'm living in Portland, OR.
 
 I've been playing pickleball, ping pong, and bouldering for exercise lately.
 ## reading
-I'm currently reading [[Algorithms to Live By]], [[On Tyranny]], and [[Nettle & Bone]].
+I'm currently reading [[The Lazarus Heist]], [[On Tyranny]], and [[Nettle & Bone]].
 
-A few favorite reads from this year have been [[Winners Take All]], [[Code]], and [[A Desolation Called Peace]].
+A few favorite reads from last year are [[Winners Take All]], [[Code]], and [[A Desolation Called Peace]].
 
 I'm slowly trying to chip away at the [[Hugo Award Winners]] for best novel.
 ## playing
-I'm playing [[Skin Deep]], [[Slice & Dice]], and [[Mechabellum]] right now.
+I'm playing [[Skin Deep]] and [[Slice & Dice]] right now.
 
-I'm getting ready for my friends' end of the year [GOTY discussions](https://ryankubik.com/blog/2024-what-i-played). I'm looking forward to playing more over the holidays. These are some I'm interested in checking out.
-- [[s.p.l.i.t.]]
-- [[The Drifter]]
-- [[La Mulana]]
-- [[Angeline Era]]
+I think I might start [[Dark Souls 3]] soon. I'm also feeling interested by [[Expedition 33 - Clair Obscure]] and [[Baldur’s Gate 3]]. I might start trying to play some of the [IGF 2026 noms](https://igf.com/article/baby-steps-strolls-to-lead-with-5-nominations-at-2026-igf-awards/) too.
 
 I've also been getting back into [[Magic the Gathering]] Commander recently. I've just been using old decks, but considering picking up some new cards again.
 ## making
@@ -27,13 +23,11 @@ I'm working on this website off and on. Most recently, I added this notes site a
 
 I'm trying to write about more honest things. I've tended to publish more "safe" posts. I don't think this gets me what I want to get from writing.
 
-I'm trying to finish making more games. I'm currently working on a successor to [[Terminal Escape]] and trying to be distracted less by new projects.
+I'm doing [Genuary 2026](https://ryankubik.com/genuary) this month, which has been fun. I'd like to get back into some of my game projects once I finish with this.
 ## thinking about
-Working under capitalism is super weird. I feel like I'm going mad watching people's excited reactions to the latest nonsense. Turns out, people have been writing about this weirdness for a good long while now. I'm working on catching up now.
+[[Software Development - Programming - Code|Software]]. [[Computing]]. [[AI]].
 
-[[Software Development - Programming - Code|Software]]. [[Computing]]. 
-
-[[Making games]].
+[[Making games]]. 
 
 ---
 
