@@ -29,7 +29,7 @@ A weekend spent scrolling feels like a waste. Is it? I guess as I start to have 
 
 [[GOTY 2025|I played a decent number of games this year]]. I've started playing fewer games in recent times than in previous years. I find it harder to find games that hold my interest now. I don't feel like I had any truly mind blowing experiences this year in games.
 
-[[I finished a decent number of projects this year]]. Every year I feel like I leave so many projects unresolved. 2025 is no exception.
+[[Projects 2025|I finished a decent number of projects this year]]. Every year I feel like I leave so many projects unresolved. 2025 is no exception.
 
 In particular, I've been struggling to finish anywhere near as many game projects as I used to. I think this is equal parts an increase in my ambition and an inability to focus on games to completion. I think these probably go hand in hand. It is harder to finish larger games (duh?).
 
