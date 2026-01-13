@@ -39,6 +39,7 @@ tags:
 - [[Why do I struggle to play narrative heavy games?]]
 - [[When do cryptic pieces of media work for me?]]
 - [[I love Elden Ring cheese. How do you get that into a turn based game?]]
+- [[I think I prefer narrative driven games to be more like movies than novels]]
 
 # Assets/Resources
 - [[Itch.io Game Assets]]

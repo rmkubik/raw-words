@@ -3,6 +3,7 @@ tags:
   - public
 ---
 - [[AI]]
+- [[Software Development Culture and Teams]]
 
 # 1/9/26
 - [[Computational kindness]]
