@@ -2,6 +2,9 @@
 tags:
   - public
 ---
+# 1/12/26
+- [[You cannot use AI to disprove the existence of an API capability]]
+
 # 1/4/26
 - [[Brandolini's Law]]
 
