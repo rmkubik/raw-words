@@ -2,6 +2,9 @@
 tags:
   - public
 ---
+# 1/19/26
+- [[AI companies will fail. We can salvage something from the wreckage]]
+
 # 1/12/26
 - [[You cannot use AI to disprove the existence of an API capability]]
 
