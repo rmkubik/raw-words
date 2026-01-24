@@ -8,5 +8,6 @@ tags:
 - [[Every message should have as much context as necessary for an answer]]
 - [[Slack should be primarily async communication, don't expect a prompt response]]
 - [[DMs are bad for work communication]]
+- [[We should ban Giphy]]
 
 
