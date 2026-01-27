@@ -5,6 +5,9 @@ tags:
 - [[AI]]
 - [[Software Development Culture and Teams]]
 
+# 1/26/26
+- [[I hate working with React hook "UseHookResult" types]]
+
 # 1/9/26
 - [[Computational kindness]]
 # 1/4/25
