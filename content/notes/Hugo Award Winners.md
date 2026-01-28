@@ -7,7 +7,7 @@ tags:
 | ---- | ---- | --------------------------------------- | --------------------------------- |
 | ✅    | 2025 | [[The Tainted Cup]]                     | Robert Jackson Bennett            |
 |      | 2024 | [[Some Desperate Glory]]                | Emily Tesh                        |
-|      | 2023 | [[Nettle & Bone]]                       | Ursula Vernon (T Kingfisher)      |
+| ✅    | 2023 | [[Nettle & Bone]]                       | Ursula Vernon (T Kingfisher)      |
 | ✅    | 2022 | [[A Desolation Called Peace]]           | Arkady Martine                    |
 |      | 2021 | [[Network Effect]]                      | Martha Wells                      |
 | ✅    | 2020 | [[A Memory Called Empire]]              | Arkday Martine                    |

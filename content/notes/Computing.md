@@ -5,6 +5,9 @@ tags:
 - [[AI]]
 - [[Software Development Culture and Teams]]
 
+# 1/28/26
+- [[I find it easier to work with five 200 line files than one 1000 line file]]
+
 # 1/26/26
 - [[I hate working with React hook "UseHookResult" types]]
 
