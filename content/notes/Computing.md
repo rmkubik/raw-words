@@ -4,6 +4,7 @@ tags:
 ---
 - [[AI]]
 - [[Software Development Culture and Teams]]
+- [[Software Architecture]]
 
 # 1/28/26
 - [[I find it easier to work with five 200 line files than one 1000 line file]]

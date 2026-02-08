@@ -9,7 +9,7 @@ tags:
 |      | 2024 | [[Some Desperate Glory]]                | Emily Tesh                        |
 | ✅    | 2023 | [[Nettle & Bone]]                       | Ursula Vernon (T Kingfisher)      |
 | ✅    | 2022 | [[A Desolation Called Peace]]           | Arkady Martine                    |
-|      | 2021 | [[Network Effect]]                      | Martha Wells                      |
+| ✅    | 2021 | [[Network Effect]]                      | Martha Wells                      |
 | ✅    | 2020 | [[A Memory Called Empire]]              | Arkday Martine                    |
 |      | 2019 | [[The Calculating Stars]]               | Mary Robinette Kowal              |
 | ✅    | 2018 | [[The Stone Sky]]                       | N. K. Jemison                     |
