@@ -7,7 +7,7 @@ I'm living in Portland, OR.
 
 I've been playing pickleball, ping pong, and bouldering for exercise lately.
 ## reading
-I'm currently reading [[Network Effect]].
+I'm currently reading [[The City in Glass]].
 
 A few favorite reads from last year are [[Winners Take All]], [[Code]], and [[A Desolation Called Peace]].
 
