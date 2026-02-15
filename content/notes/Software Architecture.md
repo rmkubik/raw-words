@@ -5,6 +5,9 @@ tags:
 - [[Parse, don't validate]]
 - [[Functional Core, Imperative Shell]]
 
+# 2/15/26
+- [[Code base graph explorer]]
+
 # 10/9/25
 - [[Local-first software]]
 - [[Own your own data]]

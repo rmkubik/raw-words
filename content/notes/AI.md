@@ -2,6 +2,9 @@
 tags:
   - public
 ---
+# 2/10/26
+- [[Programming as Theory Building]]
+
 # 1/19/26
 - [[AI companies will fail. We can salvage something from the wreckage]]
 

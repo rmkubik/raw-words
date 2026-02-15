@@ -8,6 +8,9 @@ tags:
 - 📚 [[Game Story & Narrative & Theming Ideas]]
 - 🎨 [[Game Aesthetic Ideas]]
 
+# Tech
+- [[My game dev tech stack]]
+
 # Insights
 - [[Are modern "attention spans" really decreasing?]]
 - [[Why do I like the games that I like?]]

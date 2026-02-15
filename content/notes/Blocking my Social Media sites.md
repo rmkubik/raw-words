@@ -8,7 +8,7 @@ I've been through a few phases of cutting social media out of my life now. I'm p
 
 I feel like I've lost a little bit of the community I used to get from those spaces. I do not think I was getting it from them any longer anyway though.
 
-I am getting community instead now from local in person groups and smaller Discord communities. I'm interested in [[Friendcatcher]]s as well for the outreach portion of finding new cool people.
+I am getting community instead now from local in person groups and smaller Discord communities. I'm interested in [[Friendcatchers]]s as well for the outreach portion of finding new cool people.
 
 I have noticed that "scrolling" stays constant. I always find something new to replace the old addiction with. I think, perhaps, this "addiction" is more of a manifestation of exhaustion, low energy, and burn out. I often don't feel like I have the energy to do something meaningful after work (or on the weekend). Instead, I "scroll" or watch Twitch. 
 

@@ -17,7 +17,7 @@ It feels great to have met a bunch of cool new people this year. I got involved 
 
 I've lived in Portland nine years now. It feels like home. I have close friends I feel like I've known forever here now. We hang out regularly. We have barbecues and board game nights we go bouldering and play pickleball. 
 
-I want to keep building more community. I want to help people I like be successful. I want to hear about things that excite them. I like the [[Friendcatcher]] concept.
+I want to keep building more community. I want to help people I like be successful. I want to hear about things that excite them. I like the [[Friendcatchers]] concept.
 
 I've been dealing with a deviated septum this year. That has been particularly challenging along with the rest of my new health problems from getting older. I need to get dental work done. My neck hurts. It is harder to get good sleep. I should find a therapist. 
 
