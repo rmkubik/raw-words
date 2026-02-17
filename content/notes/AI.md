@@ -2,6 +2,9 @@
 tags:
   - public
 ---
+# 2/16/26
+- [[The Bullshit Machines]]
+
 # 2/10/26
 - [[Programming as Theory Building]]
 

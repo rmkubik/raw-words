@@ -2,6 +2,18 @@
 tags:
   - public
 ---
+# 2/16/26
+What do I need for this:
+- I need a backend and a frontend for this
+- Backend needs to run a node server and actually run the bash commands needed to generate the graph
+- Frontend renders everything and makes requests of the backend about the code base structure
+- Backend should probably watch for file system changes and refresh the FE?
+
+mock:
+- [[codebase_graph_explorer_mock.excalidraw]]
+
+I should maybe check out `madge` and `dependency-tree` for graph generation instead of `ts-dependency-graph`. `ts-graphviz` is another project in this vein it seems.
+
 # 2/15/26
 I keep making Figjam graphs exploring my code bases at work. I think this is pretty crucial to my understanding of software projects. There's probably some value to doing this manually, but I wonder if there are tools that could help.
 
