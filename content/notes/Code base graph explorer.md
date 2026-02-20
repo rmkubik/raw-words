@@ -2,6 +2,24 @@
 tags:
   - public
 ---
+# 2/19/26
+I updated some configuration on `ts-dependency-graph` to fix the base paths it was giving me.
+
+I was able to get a file node onto the canvas. When you hover over a file node, you can add its dependencies to the canvas linked to it.
+- These dependencies do not include mention of NPM dependencies, which is not ideal. I'd like to know what npm deps a file has, I think.
+- I want to know what other files import something from the file in question as well. I know that TS static analysis tools in VS Code can provide this to me performantly. I do not think ts-dependency-graph can do so. I think it essentially needs to generate the entire graph to figure that out.
+
+I'm worried it may be best for me to implement my own dependency detection using something like `ts-morph`. It looks like I could use the `typescript` built in Compiler API, but it seems lower level than what I need to just parse the AST for information. You can also use things like `babel` or `recast` or probably any of the libraries mentioned on [[AST Explorer]].
+
+I need a way to arrange newly imported and added nodes so that they do not conflict with each other. There are a couple algorithms like Elk.js and dagre.
+
+I think these are probably better fits for "prettifying" an entire graph vs. adding a few nodes. At least Elk.js seems to work that way. We use it at work and adding a single node to the graph can cause some unpleasantly dramatic reorganizations.
+
+I think what will probably be nicer is something force directed. This is how Obsidian's node explorer works. d3 force and springy.js both seem like good options here.
+
+# 2/17/26
+Too morbid, likely, but I kinda wanna name this "vivisect". The tool I'm imagining is all about getting into the guts of a codebase. Pinning bits of it to your canvas. Seeing how it is all connected.
+
 # 2/16/26
 What do I need for this:
 - I need a backend and a frontend for this

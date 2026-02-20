@@ -2,8 +2,12 @@
 tags:
   - public
 ---
+# 2/17/26
+- [[AI tools can help with cold starts]]
+
 # 2/16/26
 - [[The Bullshit Machines]]
+- [[The first-step fallacy]]
 
 # 2/10/26
 - [[Programming as Theory Building]]

@@ -5,6 +5,10 @@ tags:
 - [[Parse, don't validate]]
 - [[Functional Core, Imperative Shell]]
 
+# 2/17/26
+- [[I can't decide if I like an open on a React modal component or not]]
+- [[Prefer adding parents with padding or flex to margin]]
+
 # 2/15/26
 - [[Code base graph explorer]]
 

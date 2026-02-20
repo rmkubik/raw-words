@@ -13,6 +13,8 @@ tags:
 - [[Why should I care about a company re-org?]]
 - [[PR practices I think are good and bad]]
 - [[We should ban Giphy]]
+- [[Ship Show Ask]]
+- [[I think I hate pull request review]]
 
 I read through [[Artsy Engineering Principles]] and a lot of it is super resonant for me. Several principles of theirs put words to things I believe in a lot.
 - Especially "incremental revolution", "being nice is nice", "minimal viable process", and "leverage your impact".
