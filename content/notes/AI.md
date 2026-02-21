@@ -2,6 +2,8 @@
 tags:
   - public
 ---
+# 2/19/26
+- [[AI generated code seems to be over wrought]]
 # 2/17/26
 - [[AI tools can help with cold starts]]
 
