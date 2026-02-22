@@ -2,7 +2,6 @@
 tags:
   - public
 ---
-
 # 1/11/26
 This genre is so so tired to me now. I've been sick of it for a long while now. 
 
