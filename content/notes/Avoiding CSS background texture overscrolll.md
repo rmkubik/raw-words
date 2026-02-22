@@ -53,7 +53,7 @@ main {
   border: 1px solid black;
   border-radius: 16px;
   
-  margin: 1rem auto,
+  margin: 1rem auto;
 }
 ```
 
