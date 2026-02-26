@@ -5,6 +5,9 @@ tags:
 - [[Parse, don't validate]]
 - [[Functional Core, Imperative Shell]]
 
+# 2/23/26
+- Curious about [[Boxed for functional TS]]
+
 # 2/17/26
 - [[I can't decide if I like an open on a React modal component or not]]
 - [[Prefer adding parents with padding or flex to margin]]

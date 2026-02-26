@@ -2,8 +2,13 @@
 tags:
   - public
 ---
+# 2/24/26
+- [[Becoming an em dash user]]
+- [[It is easy to fall into a bad consumptive mindset when working with AIs]]
+
 # 2/19/26
 - [[AI generated code seems to be over wrought]]
+
 # 2/17/26
 - [[AI tools can help with cold starts]]
 
