@@ -28,7 +28,7 @@ I'm trying to write about more honest things. I've tended to publish more "safe"
 
 [[Making games]]. 
 
-[[Philosophy?]]
+[[Philosophy?]]. [[Community building]].
 
 ---
 
