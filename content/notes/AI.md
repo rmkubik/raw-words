@@ -2,6 +2,9 @@
 tags:
   - public
 ---
+# 3/2/26
+- [[If you want to convince me your AI tools are productive, stop comparing them to junior engineers]]
+
 # 2/24/26
 - [[Becoming an em dash user]]
 - [[It is easy to fall into a bad consumptive mindset when working with AIs]]
