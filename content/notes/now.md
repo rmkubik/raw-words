@@ -9,16 +9,17 @@ I bought a bike. Which feels long overdue after having lived here for around 9 y
 
 I've been playing pickleball, ping pong, and bouldering for exercise lately.
 ## reading
-I'm currently reading [[The Raven Scholar]] and [[The Internet Con]].
+I'm currently reading [[The Spear Cuts Through Water]] and [[The Internet Con]].
 
-A few favorite reads from last year are [[Winners Take All]], [[Code]], and [[A Desolation Called Peace]].
+A few favorite reads from last year are [[Winners Take All]], [[Code]], and [[A Desolation Called Peace]]. I really liked [[The Raven Scholar]] which I read this year.
 
 I'm slowly trying to chip away at the [[Hugo Award Winners]] for best novel.
 ## playing
-I'm not really playing anything right now. I've been watching some gameplay of [[Mewgenics]] which I feel a little conflicted about. [[I'm so over roguelikes]], so this one holding my attention is surprising to me. The deep systemic interactions are fascinating.
+I'm not really playing any games right now. I'm lightly curious about [[Slay the Spire 2]] coming out soon. I kinda missed getting into the original when it came out and then was kinda sick of its formula due to other games by the time I tried it. I do wanna check it out this time around... but I also don't really want to play it in early access.
 
-The game's vibes are pretty off putting to me too. The childishness is one thing, but the sort of make fun of everyone, enlightened centrist vibe is pretty tough. All that said, very compelling gameplay.
+I'm holding out for [[Titanium Court]]. I hope it releases soon. It has gotten a lot of IGF buzz and it has released a public demo I'm avoiding for now.
 
+I think after I finish helping throw PFOG, I might have more energy to play games again.
 ## making
 Right now, I'm primarily helping to organize the [Portland Festival of Gaming (PFOG)](https://pdxmakes.games/pfog). But I'm also tinkering with a few little web projects.
 

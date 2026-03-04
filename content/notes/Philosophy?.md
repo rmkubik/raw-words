@@ -11,5 +11,5 @@ Thoughts in this bucket:
 - [[The alchemy of personal breakthroughs]]
 - [[Learning occurs when you write]]
 - [[Your personal system should optimize for flexibility, following your whims, and managing your motivation to use it.]]
-- [[Evergreen notes]]
+- [[Note Taking]]
 - [[Friendcatchers]]
