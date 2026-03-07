@@ -2,7 +2,6 @@
 tags:
   - public
 ---
-
 # 10/21/25
 - [[Making my notes public has made my note-taking feel more productive]]
 - [[Why do I want to ship more writing?]]

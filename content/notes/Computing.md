@@ -6,6 +6,17 @@ tags:
 - [[Software Development Culture and Teams]]
 - [[Software Architecture]]
 
+# 3/6/26
+- [[Functional Programming]]
+- [[React]]
+
+# 2/15/26
+- [[Browsers can handle other protocols besides http]]
+- [[Metcalfe's law - networks become exponentially more valuable with size]]
+
+# 2/14/26
+- [[RSS is good]]
+
 # 1/28/26
 - [[I find it easier to work with five 200 line files than one 1000 line file]]
 

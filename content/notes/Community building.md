@@ -2,6 +2,9 @@
 tags:
   - public
 ---
+# 3/6/26
+- [[Event organizing]]
+
 # 2/25/26
 - The importance of maintaining a high standard of culture
 	- Scale is bad

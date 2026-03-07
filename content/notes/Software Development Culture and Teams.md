@@ -15,6 +15,10 @@ tags:
 - [[We should ban Giphy]]
 - [[Ship Show Ask]]
 - [[I think I hate pull request review]]
+- [[I think you should share titles at work]]
+- [[Must. Resist. Urge. To. Break. Established. Code. Pattern.]]
+- I think [[Facilitation]] is very important and undervalued
+
 
 I read through [[Artsy Engineering Principles]] and a lot of it is super resonant for me. Several principles of theirs put words to things I believe in a lot.
 - Especially "incremental revolution", "being nice is nice", "minimal viable process", and "leverage your impact".

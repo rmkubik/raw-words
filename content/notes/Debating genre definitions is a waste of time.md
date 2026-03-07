@@ -2,6 +2,10 @@
 tags:
   - public
 ---
+# 3/4/26
+Saw a good quote in a Discord I resonated with:
+>  Here’s where I’ll get on my usual hobby horse of “all models are incorrect, some are useful”, and the idea of “genre” is only meaningful when you know what meaning you’re trying to get out of a classification
+
 # 1/17/26
 It is funny reading old entries where I was clearly fresh off being really annoyed at someone on the Internet. I still agree with the old version of me. Most conversations debating genre are a waste of time.
 

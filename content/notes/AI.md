@@ -2,6 +2,12 @@
 tags:
   - public
 ---
+# 3/6/26
+- [[microgpt]]
+
+# 3/4/36
+- [[I think AI has uses]]
+
 # 3/2/26
 - [[If you want to convince me your AI tools are productive, stop comparing them to junior engineers]]
 
@@ -12,6 +18,9 @@ tags:
 # 2/19/26
 - [[AI generated code seems to be over wrought]]
 
+# 2/18/26
+- [[You shouldn't have your AI write your test cases]]
+
 # 2/17/26
 - [[AI tools can help with cold starts]]
 
@@ -19,8 +28,19 @@ tags:
 - [[The Bullshit Machines]]
 - [[The first-step fallacy]]
 
+# 2/14/26
+- [[AI skepticism as a software developer in 2026]]
+- [[Generative AI as compilers doesn't make sense to me]]
+
 # 2/10/26
 - [[Programming as Theory Building]]
+
+# 2/7/26
+- [[Generative AI as compilers doesn't make sense to me]]
+- [[Don't tell me how many lines of code your LLM wrote]]
+
+# 2/2/26
+- [[Is Tidy First antithetical to AI driven development?]]
 
 # 1/19/26
 - [[AI companies will fail. We can salvage something from the wreckage]]
