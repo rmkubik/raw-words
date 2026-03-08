@@ -6,6 +6,9 @@ tags:
 - [[Software Development Culture and Teams]]
 - [[Software Architecture]]
 
+# 3/7/26
+- [[Communal computing (folk computing)]]
+
 # 3/6/26
 - [[Functional Programming]]
 - [[React]]

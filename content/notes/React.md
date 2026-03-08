@@ -25,4 +25,5 @@ Ideas
 - React debugger has an option to highlight component renders!
 - [[Performance in React is tricky]]
 - [[I think React might be terrible at scale]]
+- [[React seems antithetical to functional core, imperative shell]]
 
