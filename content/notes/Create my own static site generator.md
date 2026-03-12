@@ -137,6 +137,13 @@ We should "prettify" the output HTML:
 - I would like it to be nicely indented
 - Possibly we should be minifying it instead...
 
+For a server to hotreload in dev:
+- https://stackoverflow.com/questions/62403571/hot-reloading-in-a-react-app-with-express-server
+- The server needs to open a separate connection to the client via an injected script
+- A websocket connection i think?
+- Once the server restarts - it sends a message to the client
+- In response to the message, the browser runs window.reload() (or whatever smart hot reloading React does)
+
 # 12/21/25
 I feel inspired by Reed's post here: https://henderson.lol/pages/hire/psg
 - He built his website with a 99 line Python static site generator that he wrote himself

@@ -2,6 +2,9 @@
 tags:
   - public
 ---
+# 3/11/26
+- [[I want PuzzleScript for making games I like]]
+- Curious about things like [[Pico 8]], [[Picotron]], and [[Sugar]].
 
 # 2/15/26
 I feel like I have some pre-existing notes for this, but I cannot find them. Making a new one for now.
