@@ -2,6 +2,9 @@
 tags:
   - public
 ---
+# 3/12/26
+- [[The way LLMs talk drain me emotionally]]
+
 # 3/6/26
 - [[microgpt]]
 

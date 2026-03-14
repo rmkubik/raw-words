@@ -2,6 +2,14 @@
 tags:
   - public
 ---
+# 3/13/26
+I did some research into projectors and didn't really come to any conclusions. I did look at a few different sorts of categories:
+- I'm kinda just generally into a smaller portable projector. I don't think I need or want this in real life. But, the idea is that you could take it with you to a hotel or wherever you want really and easily project on a wall. It seems kinda cool. I think maybe these projectors just aren't actually very good though.
+	- Nebula seems to be a popular brand in this arena. There's a Nebula Capsule in particular. Plenty of people seem to be haters as well though.
+- https://projectorcentral.com/ seems to have good recs on products in various different categories. This seems like the place to go for quality purchases.
+- Unfortunately, it seems like you need a "laser projector" for something like the [[Folk Gadget]] that you can easily transport and set up wherever you want. 
+- Laser projectors are more expensive than traditional projectors. It seems like you would need to spend around 500 bucks to get something you could use for a [[Folk Gadget]].
+
 # 3/7/26
 There is a portable version of [[Folk Computer]] called [[Folk Gadget]]. It seems like starting with trying to build one of these would be a good first step.
 
