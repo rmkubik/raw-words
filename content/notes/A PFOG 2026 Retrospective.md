@@ -3,7 +3,7 @@ tags:
   - public
 ---
 # 3/20/26
-I feel like PFOG went really well. I've never run something of this scale before, and I had this weird feeling of it being "easier" than I thought it would be. It was also much harder and more exhausting than I thought it would be too. For me, a lot of event organizing seems to be burning reserves of energy and motivation. I specifically chose events and formats that would minimize our organizational burden too.
+I feel like [PFOG](https://pdxmakes.games/pfog) went really well. I've never run something of this scale before, and I had this weird feeling of it being "easier" than I thought it would be. It was also much harder and more exhausting than I thought it would be too. For me, a lot of event organizing seems to be burning reserves of energy and motivation. I specifically chose events and formats that would minimize our organizational burden too.
 
 I want to think through everything now that I've got some time to my self. I want to figure out how PFOG works into the future as well.
 
@@ -42,7 +42,7 @@ So what about the rest of the year?
 	- I want to figure out how to keep providing space and encouragement for people to throw cool, living events in the PFOG spirit.
 - The first step for this, I think, is for me to work on PDX Makes Games as a space to celebrate and support event organizers and community members in town.
 
-PDX Makes Games
+[PDX Makes Games](https://pdxmakes.games/)
 - I haven't really been resonating with tech and gaming events the same way since the pandemic. Maybe before, who knows, but it certainly crystalized when I looked around a few years ago and just wasn't that interested in the things happening around me any more.
 - I started thinking the solution might just be to try and run my own events to try and figure out what I liked. 
 - Last year, I took a baby step in that direction and ran the PDX Games Census. It was a modest success. I know it reached only a tiny fraction of game makers in town, but as a first attempt it got ~40 respondents. And that was pretty encouraging.
