@@ -11,4 +11,4 @@ I think it would be cool to have something similar for making systemic turn base
 
 I do wonder if maybe [[Nova lang]] is that language... And maybe it's just about creating the right environment around the language. Adding in some handy default utilities.
 
-It could be kinda sick to build on [[Loops (Other Reed)]]'s JS Nova harness and create some grid and other basic components you can build a game out of. I think it could be a good candidate for [[Magic tower style games]].
+It could be kinda sick to build on [[Loops]]'s JS Nova harness and create some grid and other basic components you can build a game out of. I think it could be a good candidate for [[Magic tower style games]].

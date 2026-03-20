@@ -38,7 +38,7 @@ Notes from [[Feeling of Computing (fka The Future of Coding)]] on this paper:
 # 1/18/26
 Programming is not an activity that produces a program. The result of programming is the creation of a theory or insight about a problem and a solution to that problem.
  
- Since, programming as an activity includes the continual modification of programs. In the [[Theory Building View of programming]], the knowledge a programmer builds while working on a program is an integral part of programming. A programmer must build this knowledge and internalize it, and documentation of this knowledge (in a program or documentation) is a secondary artifact.
+ Since, programming as an activity includes the continual modification of programs. In the [[Theory building view of programming]], the knowledge a programmer builds while working on a program is an integral part of programming. A programmer must build this knowledge and internalize it, and documentation of this knowledge (in a program or documentation) is a secondary artifact.
 - This view is primarily concerning working on real, large programs, in team settings. 
 
 [[Ryle's notion of theory]] 

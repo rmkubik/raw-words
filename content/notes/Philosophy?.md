@@ -2,6 +2,13 @@
 tags:
   - public
 ---
+# 3/16/26
+I think another reason I have this note category is that I find the idea of Philosophy interesting. I like the idea of thinking about thinking. Or considering what other things may be going on besides the obvious.
+
+I think the reason I’m so turned off by the aesthetics of Philosophy is the argumentation. I don’t like arguments or debates. I don’t think this has to be intrinsic to philosophical ideas. But, it does seem like people into these ideas enjoy arguing about them.
+
+To me, the concerns in Philosophy seem so abstract and distant from my lived life that putting energy into yelling about them is absurd. I don’t even like yelling about things I should be yelling about.
+
 # 3/4/26
 - [[How do I get more comfortable with uncertainty?]]
 - [[I think you should share titles at work]]

@@ -2,6 +2,26 @@
 tags:
   - public
 ---
+# 3/16/25
+Next stuff?
+- I think I should make some endpoints...
+- But before I get to far, I think I should consider `trpc`.
+
+Okay, querying data and dealing with form validation nicely is a PITA in React. It's overly verbose for the things I want to write.
+- I think this is why people like react-query, we use this at work for data fetching
+- react-hook-form I used to like, but its pretty unfun to use at work... i think maybe the library is old and brittle now? i think we're also incredibly misusing the library too. workflows just should not be a form...
+
+
+# 3/15/26
+- I set up [[drizzle-kit]]. It just needed a simple config file and a connection to the DB.
+- I'm using `push` w/ [[drizzle-kit]] right now. It seems like that should be fine for dev cases.
+- I might want to switch to a `generate` and `migrate` flow once the application is actually running and I want to be sure of how my data works.
+- I had to update my DB indices to reference the tables they're referencing. This seems to be convention. I think index names need to be unique.
+- I had to setup [[dotenv-expand]] so that I could use the db user and pw template vars in my db url variable.
+
+# 3/13/26
+Took some notes on [[Docker]] relevant to this project.
+
 # 3/8/26
 - [[feedsmith]]
 - [[drizzle]]
