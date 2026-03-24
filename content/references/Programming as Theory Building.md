@@ -5,6 +5,24 @@ tags:
 
 - https://pages.cs.wisc.edu/~remzi/Naur.pdf
 
+# 3/24/26
+I finished reading this paper on Sunday (3/22/26) and I discussed it last night with friends. I took my notes on the rest of the physically, and I don't feel like its worth transcribing them here.
+
+Some concluding thoughts though:
+- The idea that there is some "theory" (or mental model) that exists beyond the code that I can never fully articulate in code or documentation or other artifact still rings true to me. Some folks compared this to "artistic expression" last night. And just the general idea that communication is always lossy. We're incapable of fully expressing something from the mind into reality with perfect clarity.
+- We also talked about some of the holes in the paper
+	- If nothing can ever be transmitted perfectly, how can two people ever have the "same" theory. How can I even have the same theory tomorrow that I had yesterday?
+	- We concluded that there is probably a much wider swath of "well enough aligned" theory that is pretty useful and practical.
+	- The paper also tries to make a very absolutist claim about programming in all contexts. This is just kind of a generally frustrating thing that I find many academic papers do, so it doesn't bother me much. I just ignore that aspect.
+- I'm not that interested in the philosophical claims the author may or may not be making about the nature of programming personally. Good enough is plenty good for me. I don't need the truth at the heart of software.
+- I like the ways that this theory building view promotes a lot of the good practices that I've come to appreciate in my career
+	- It encourages creation of clean modules and code so that they make it easier to transfer or build a theory about them
+	- It encourages creation of documentation that can aid in transmission of theory. Things like explaining the patterns we use, why we use them. Why are there seemingly duplicate approaches in our code base. etc.
+	- It also encourages an "archaeological approach" to inheriting a code base. I think it is useful to try and determine what the authors of code you're looking at were thinking. Why did they choose this approach? If they were rushed and this happened to be good enough, then you can be more liberal in burning it down and replacing it.
+	- Sometimes it can be better to rewrite some piece of code than work with it. Sometimes the theory cannot be found, or pretty often i think, the original theory was a mess and/or not really considered at all. It might be a better idea to rewrite a given module or program than try and work with the existing code.
+- I like this "theory building view" of programming a lot, personally. I think I don't care for the paper itself as much. But this idea of framing programming as theory building is very compelling to me. I think it will be a useful lens for me going forward.
+
+
 # 3/1/26
 Notes from [[Feeling of Computing (fka The Future of Coding)]] on this paper:
 - programming is not the activity that produces an artifact
