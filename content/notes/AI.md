@@ -2,6 +2,10 @@
 tags:
   - public
 ---
+# 3/24/26
+- [[Programming as Theory Building]]
+- [[Generative AI as compilers doesn't make sense to me]]
+
 # 3/12/26
 - [[The way LLMs talk drain me emotionally]]
 
