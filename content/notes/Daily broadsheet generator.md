@@ -2,6 +2,14 @@
 tags:
   - public
 ---
+# 3/26/26
+I got part way through setting up auth users with better-auth. I need to finish setting that up.
+
+# 3/25/26
+Open links:
+- https://onedollarstats.com/
+- https://github.com/macieklamberski/feedsmith/
+
 # 3/16/25
 Next stuff?
 - I think I should make some endpoints...

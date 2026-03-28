@@ -2,9 +2,13 @@
 tags:
   - public
 ---
+# 3/26/26
+- [[There will not be One Universal Interface]]
+
 # 3/24/26
 - [[Programming as Theory Building]]
 - [[Generative AI as compilers doesn't make sense to me]]
+- [[I think prompting LLMs short circuits my thinking]]
 
 # 3/12/26
 - [[The way LLMs talk drain me emotionally]]

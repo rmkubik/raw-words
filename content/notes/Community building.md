@@ -2,6 +2,9 @@
 tags:
   - public
 ---
+# 3/25/26
+- [[Communities I'm interested in]]
+
 # 3/6/26
 - [[Event organizing]]
 

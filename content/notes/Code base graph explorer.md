@@ -2,6 +2,11 @@
 tags:
   - public
 ---
+# 3/25/26
+I have been making more quick sketches at work like this in Figjam and I still think this tool would be helpful.
+
+I did wonder if it could not be limited to purely reading code, but could also be used to author new code as well.
+
 # 2/19/26
 I updated some configuration on `ts-dependency-graph` to fix the base paths it was giving me.
 

@@ -26,4 +26,5 @@ Ideas
 - [[Performance in React is tricky]]
 - [[I think React might be terrible at scale]]
 - [[React seems antithetical to functional core, imperative shell]]
+- [[I think I might hate React]]
 
