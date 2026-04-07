@@ -18,6 +18,7 @@ tags:
 - [[I think you should share titles at work]]
 - [[Must. Resist. Urge. To. Break. Established. Code. Pattern.]]
 - I think [[Facilitation]] is very important and undervalued
+- [[We do not build products at tech companies, we sell features]]
 
 
 I read through [[Artsy Engineering Principles]] and a lot of it is super resonant for me. Several principles of theirs put words to things I believe in a lot.

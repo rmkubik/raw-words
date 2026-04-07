@@ -73,7 +73,7 @@ tags:
 | ✅    | 1963 | [[The Man in the High Castle]]          | Philip K. Dick                    |
 |      | 1962 | [[Stranger in a Strange Land]]          | Rober A. Heinlein                 |
 |      | 1961 | [[A Canticle for Leibowitz]]            | Walter M. Miller, Jr.             |
-|      | 1960 | [[Starship Troopers]]                   | Rober A. Heinlein                 |
+| ✅    | 1960 | [[Starship Troopers]]                   | Rober A. Heinlein                 |
 |      | 1959 | [[A Case of Conscience]]                | James Blish                       |
 |      | 1958 | [[The Big Time]]                        | Fritz Leiber                      |
 |      | 1956 | [[Double Star]]                         | Robert A. Heinlein                |

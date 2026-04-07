@@ -2,6 +2,11 @@
 tags:
   - public
 ---
+# 3/30/26
+Do I want to use React and a SPA for this? It probably makes sense for me to just do that since it is what I know. I am increasingly feeling like that approach is just kind of silly. I think the main broadsheet for this project could make sense as a React application. The entire site though?
+
+On the other hand, maybe I should just use a React SPA as practice for work anyway. Despite kinda thinking it feels like overkill.
+
 # 3/26/26
 I got part way through setting up auth users with better-auth. I need to finish setting that up.
 

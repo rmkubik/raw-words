@@ -5,6 +5,9 @@ tags:
 - [[Parse, don't validate]]
 - [[Functional Core, Imperative Shell]]
 
+# 4/2/26
+- [[How much should you think about how React renders?]]
+
 # 2/23/26
 - Curious about [[Boxed for functional TS]]
 

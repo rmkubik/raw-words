@@ -8,6 +8,7 @@ Custom hooks:
 - [Why You Should Be Writing React Custom Hooks](https://dev.to/sevenzark/why-you-should-be-writing-react-custom-hooks-5egl)
 - [Why custom react hooks could destroy your app performance](https://www.developerway.com/posts/why-custom-react-hooks-could-destroy-your-app-performance)
 - [[useWindowOrientation custom hook]]
+- [[Dealing with useEffect arrays]]
 
 Libraries
 - [[visx]] - react wrapper around d3.js
@@ -27,4 +28,5 @@ Ideas
 - [[I think React might be terrible at scale]]
 - [[React seems antithetical to functional core, imperative shell]]
 - [[I think I might hate React]]
+- [[How much should you think about how React renders?]]
 
