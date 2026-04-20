@@ -11,7 +11,7 @@ tags:
 | ✅    | 2022 | [[A Desolation Called Peace]]           | Arkady Martine                    |
 | ✅    | 2021 | [[Network Effect]]                      | Martha Wells                      |
 | ✅    | 2020 | [[A Memory Called Empire]]              | Arkday Martine                    |
-|      | 2019 | [[The Calculating Stars]]               | Mary Robinette Kowal              |
+| ✅    | 2019 | [[The Calculating Stars]]               | Mary Robinette Kowal              |
 | ✅    | 2018 | [[The Stone Sky]]                       | N. K. Jemison                     |
 | ✅    | 2017 | [[The Obelisk Gate]]                    | N. K. Jemison                     |
 | ✅    | 2016 | [[The Fifth Season]]                    | N. K. Jemison                     |

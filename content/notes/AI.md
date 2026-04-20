@@ -2,6 +2,9 @@
 tags:
   - public
 ---
+# 4/14/26
+- [[The Perils of Laziness Lost]]
+
 # 3/26/26
 - [[There will not be One Universal Interface]]
 
