@@ -9,13 +9,13 @@ I bought a bike. Which feels long overdue after having lived here for around 9 y
 
 I've been playing pickleball, ping pong, and bouldering for exercise lately.
 ## reading
-I'm currently reading [[The Spear Cuts Through Water]] and [[The Timeless Way of Building]].
+I'm currently reading [[American Gods]],  [[The Timeless Way of Building]], and [[Get Together]].
 
 A few favorite reads from last year are [[Winners Take All]], [[Code]], and [[A Desolation Called Peace]]. I really liked [[The Raven Scholar]] which I read this year.
 
 I'm slowly trying to chip away at the [[Hugo Award Winners]] for best novel.
 ## playing
-I'm playing a bit of [[Slay the Spire 2]] right now. I kinda missed the boat on the original game, and I'm seeing why people made so many copy cats of this formula. It works much better here than in the copies I've seen.
+I'm not playing too much right now. I've been watching some [[Age of Empires 2]] tournaments recently and watching some plays of [[Slay the Spire 2]].
 
 I'm holding out for [[Titanium Court]]. I hope it releases soon. It has gotten a lot of IGF buzz and it has released a public demo I'm avoiding for now.
 
