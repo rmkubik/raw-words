@@ -4,6 +4,7 @@ tags:
 ---
 - [[I like dating my notes]]
 - [[For good and bad, I cannot tell who reads my blog]]
+- [[Day Plan]]
 
 Notes from [[How to Take Smart Notes]]:
 - [[New permanent notes should always reference existing notes, context is value]]
