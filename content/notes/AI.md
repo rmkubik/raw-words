@@ -2,6 +2,9 @@
 tags:
   - public
 ---
+# 4/24/26
+- [[Do I belong in tech anymore?]]
+
 # 4/14/26
 - [[The Perils of Laziness Lost]]
 
