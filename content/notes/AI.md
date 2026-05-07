@@ -2,6 +2,9 @@
 tags:
   - public
 ---
+# 4/29/26
+- [[On AI "does not work" comments]]
+
 # 4/24/26
 - [[Do I belong in tech anymore?]]
 
