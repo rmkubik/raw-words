@@ -1,7 +1,7 @@
 ---
 tags:
   - public
-modified: 2026-05-11T18:51:44-07:00
+modified: 2026-05-11T19:01:47-07:00
 ---
 ## living
 I'm living in Portland, OR. We had a belated housewarming BBQ at our new house recently and that was a blast. It feels great to have a nice outdoor space to entertain in instead of our old asphalt backyard. 
