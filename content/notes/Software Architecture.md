@@ -5,6 +5,9 @@ tags:
 - [[Parse, don't validate]]
 - [[Functional Core, Imperative Shell]]
 
+# 6/12/26
+- [[What's wrong with a lil IIFE, as a treat?]]
+
 # 4/2/26
 - [[How much should you think about how React renders?]]
 

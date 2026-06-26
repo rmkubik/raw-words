@@ -1,7 +1,11 @@
 ---
 tags:
   - public
+modified: 2026-05-25T21:44:39-07:00
 ---
+# 5/5/26
+- [[The missing stair]]
+
 # 3/25/26
 - [[Communities I'm interested in]]
 

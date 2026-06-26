@@ -29,7 +29,7 @@ tags:
 | ✅    | 2005 | [[Johnathan Strange & Mr. Norrell]]     | Susanna Clarke                    |
 |      | 2004 | [[Paladin of Souls]]                    | Lois McMaster Bujold              |
 |      | 2003 | [[Hominids]]                            | Robert J Sawyer                   |
-|      | 2002 | [[American Gods]]                       | Neil Gaiman                       |
+| ✅    | 2002 | [[American Gods]]                       | Neil Gaiman                       |
 | ✅    | 2001 | [[Harry Potter and the Goblet of Fire]] | J. K. Rowling                     |
 |      | 2000 | [[A Deepness in the Sky]]               | Vernor Vinge                      |
 |      | 1999 | [[To Say Nothing of the Dog]]           | Connie Willis                     |
@@ -37,7 +37,7 @@ tags:
 |      | 1997 | [[Blue Mars]]                           | Kim Stanely Robinson              |
 |      | 1996 | [[The Diamond Age]]                     | Neal Stephenson                   |
 |      | 1995 | [[Mirror Dance]]                        | Lois McMaster Bujold              |
-|      | 1994 | [[Green Mars]]                          | Kim Stanley Robinson              |
+| ✅    | 1994 | [[Green Mars]]                          | Kim Stanley Robinson              |
 |      | 1993 | [[A Fire Upon the Deep]]                | Vernor Vinge                      |
 |      | 1993 | [[Doomsday Book]]                       | Connie Willis                     |
 |      | 1992 | [[Barrayar]]                            | Lois McMaster Bujold              |

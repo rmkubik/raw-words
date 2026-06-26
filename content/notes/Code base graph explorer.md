@@ -2,6 +2,11 @@
 tags:
   - public
 ---
+# 5/15/26
+I am once again wishing I had a more visual way to map out wtf was happening as I read my co-workers AI generated code. 
+
+It would be neat if this tool also let me modify code in this split way. There's no reason that this tool I'm envisioning would need to be read only.
+
 # 3/25/26
 I have been making more quick sketches at work like this in Figjam and I still think this tool would be helpful.
 

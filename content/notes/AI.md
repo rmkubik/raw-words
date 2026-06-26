@@ -2,6 +2,12 @@
 tags:
   - public
 ---
+# 5/19/26
+- [[AI writes terrible tests]]
+
+# 5/18/26
+- [[AI tools seem to help with exploring messy codebases]]
+
 # 4/29/26
 - [[On AI "does not work" comments]]
 

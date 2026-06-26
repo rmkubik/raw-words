@@ -1,7 +1,12 @@
 ---
 tags:
   - public
+modified: 2026-05-15T07:12:39-07:00
 ---
+# 5/15/26
+Found an old, related note:
+- [[Running events in town]]
+
 # 3/6/26
 I've been doing 
 - [[Portland Festival of Gaming (PFOG)]]
