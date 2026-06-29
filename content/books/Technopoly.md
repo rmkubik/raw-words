@@ -1,6 +1,8 @@
 ---
 tags:
   - public
+status: reading
+modified: 2026-06-26T17:33:01-07:00
 ---
 # 5/29/26
 US has a tech obsession. Our advancement is always seen as great. We never discuss new technology in terms of winners and users.
@@ -24,8 +26,8 @@ Good quote:
 
 In the same way that removing caterpillars from an environment does not just create the same environment minus caterpillars. You have a totally new system that will function differently and need to try and find a new equilibrium.
 
-Neil points out that impact of technology is always unpredictable. Technology will not be weirled in the one way the inventor hopes. It will be used in all the ways it affords for all manner of ends.
+Neil points out that impact of technology is always unpredictable. Technology will not be weiled in the one way the inventor hopes. It will be used in all the ways it affords for all manner of ends.
 
 > How does the computer change our conception of reality?
 
-How does it change what we think of learning? This feels incredibly relevant with the current AI stuff going on right now. It is very clearly creating wildly divergent perspeectives in different people.
+How does it change what we think of learning? This feels incredibly relevant with the current AI stuff going on right now. It is very clearly creating wildly divergent perspectives in different people.

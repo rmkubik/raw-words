@@ -1,6 +1,7 @@
 ---
 tags:
   - public
+modified: 2026-06-25T19:25:42-07:00
 ---
 
 | Read | Year | Book                                    | Author                            |
@@ -34,7 +35,7 @@ tags:
 |      | 2000 | [[A Deepness in the Sky]]               | Vernor Vinge                      |
 |      | 1999 | [[To Say Nothing of the Dog]]           | Connie Willis                     |
 |      | 1998 | [[Forever Peace]]                       | Joe Haldeman                      |
-|      | 1997 | [[Blue Mars]]                           | Kim Stanely Robinson              |
+| ✅    | 1997 | [[Blue Mars]]                           | Kim Stanely Robinson              |
 |      | 1996 | [[The Diamond Age]]                     | Neal Stephenson                   |
 |      | 1995 | [[Mirror Dance]]                        | Lois McMaster Bujold              |
 | ✅    | 1994 | [[Green Mars]]                          | Kim Stanley Robinson              |
