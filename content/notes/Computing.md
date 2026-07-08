@@ -1,10 +1,14 @@
 ---
 tags:
   - public
+modified: 2026-07-07T19:35:46-07:00
 ---
 - [[AI]]
 - [[Software Development Culture and Teams]]
 - [[Software Architecture]]
+
+# 7/7/26
+- [[Branded types are cool]]
 
 # 3/7/26
 - [[Communal computing (folk computing)]]

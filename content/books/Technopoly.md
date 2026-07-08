@@ -2,8 +2,21 @@
 tags:
   - public
 status: reading
-modified: 2026-06-26T17:33:01-07:00
+modified: 2026-07-03T09:04:44-07:00
 ---
+# 7/3/26
+Chapter 2 is about humanity's transition from Tool Using society to Technocracy to set the stage for our current transition to Technolopoy.
+
+Tool Using societies had technology, but they were not central to life and culture. Generally, it seems like Theocracy was the way of the land. The scientists of those times wanted technology to further their connection to their religions. Or generally were pursuing truth for its own sake.
+
+Technocracies center technology in society. Progress and using technology for the betterment of society is a central tenet. Religion can still be around, but it is not the ruling force.
+
+People on the transitions between these cultures are interesting. They set the stage for the new world, but had perspectives from the old system. The author talks about how Kepler, Galileo, and Newton were all searching for truth. But they were not trying to defat the church. They were godly men.
+
+Its also notable who Eurocentric this book seems to be thus far. It could be that I've forgotten mentions of non Western scientists or societies, I didn't take notes while reading this chapter. 
+
+This chapter feels like more stage setting. The next is titled "From Technocracy to Technopoly". It seems like that might be where I started really getting into the meat of the book?
+
 # 5/29/26
 US has a tech obsession. Our advancement is always seen as great. We never discuss new technology in terms of winners and users.
 

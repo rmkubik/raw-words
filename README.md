@@ -1,4 +1,8 @@
-# To publish:
+## Tasks
+
+Tasks are run with the cli tool [xc](https://xcfile.dev/getting-started/). So `xc publish` runs the Publish task below.
+
+### Publish
 
 Copy #public tagged files from my personal notes into the `content` dir of this project
 
