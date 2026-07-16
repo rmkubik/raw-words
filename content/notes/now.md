@@ -1,7 +1,7 @@
 ---
 tags:
   - public
-modified: 2026-06-28T17:50:26-07:00
+modified: 2026-07-16T09:33:16-07:00
 ---
 ## living
 I'm living in Portland, OR. 
@@ -10,17 +10,19 @@ I've been getting a bit into gardening lately. Trimming and pruning and weeding 
 
 I bought a bike earlier this year. It has been a blast this summer!
 
-## reading
-I'm currently reading [[The Picture of Dorian Gray]].
+My main "project" this year has been [[Being a Guy Who Does things in 2026]]. It's going really well. I've been having BBQs, hanging with friends, doing things outside, grabbing coffee. This has been a real healthy shift in my perspective from wishing to have community to making it happen.
 
-A few favorite reads from last year are [[Winners Take All]], [[Code]], and [[A Desolation Called Peace]]. I really liked [[The Raven Scholar]] which I read earlier this year.
+## reading
+I'm currently reading [[Some Desperate Glory]].
+
+A few favorite reads from last year are [[Winners Take All]], [[Code]], and [[A Desolation Called Peace]]. I really liked [[The Raven Scholar]] which I read earlier this year. I also enjoyed [[The Picture of Dorian Gray]].
 
 I'm slowly trying to chip away at the [[Hugo Award Winners]] for best novel.
 
 ## playing
 [[Mina the Hollower]] is the first game I've meaningfully gotten into this year, it has been pretty fun. I've been watching Soccer with the World Cup going on and spectating some [[Age of Empires 2]] tournaments.
 
-I've been playing pickleball, ping pong, and bouldering for exercise lately. I just played some [[Spikeball]] for the first time in a long while, and I think it might be cruising to a top spot in my games this year.
+I've been playing pickleball, ping pong, and bouldering for exercise lately. I have been playing some [[Spikeball]] this summer and I think it might be cruising for a spot in my top games this year.
 
 ## making
 I finished organizing [Portland Festival of Gaming (PFOG)](https://pdxmakes.games/pfog) earlier this year and I wrote [[A PFOG 2026 Retrospective]] with my thoughts afterward. Summary is – it went great! I want to do more! 

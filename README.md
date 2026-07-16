@@ -4,7 +4,9 @@ Tasks are run with the cli tool [xc](https://xcfile.dev/getting-started/). So `x
 
 ### Publish
 
-Copy #public tagged files from my personal notes into the `content` dir of this project
+Copy #public tagged files from my personal notes into the `content` dir of this project.
+Push a new git commit to kick off a publish build.
+This will run in Netlify and go live at https://words.ryankubik.com.
 
 ```bash
 bun scripts/copy-public-files.ts ~/Google\ Drive/notes/personal
@@ -12,5 +14,3 @@ git add -A
 git commit -m "Update notes"
 git push
 ```
-
-Push a new git commit to kick off a publish build. This will run in Netlify and go live at https://words.ryankubik.com.
