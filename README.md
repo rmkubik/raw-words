@@ -14,3 +14,9 @@ git add -A
 git commit -m "Update notes"
 git push
 ```
+
+### See most recently published files
+
+```bash
+git diff HEAD~1 --name-only
+```
