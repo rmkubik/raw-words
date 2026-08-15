@@ -4,7 +4,7 @@ tags:
 modified: 2026-08-15T16:06:07-07:00
 ---
 # 8/14/26
-- [[I didn't realize what kind of thread "you'll be replaced by someone who uses AI" was]]
+- [[I didn't realize what kind of threat "you'll be replaced by someone who uses AI" was]]
 - [[Tabs, Spaces, Hand tools, and Seat belts]]
 
 # 7/20/26
