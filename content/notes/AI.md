@@ -2,6 +2,15 @@
 tags:
   - public
 ---
+# 8/14/26
+- [[I didn't realize what kind of thread "you'll be replaced by someone who uses AI" was]]
+- [[Tabs, Spaces, Hand tools, and Seat belts]]
+
+# 7/20/26
+- [[Faulty Towers, vibe sickness, and the vibe bobsled]]
+- [[The Tower Keeps Rising]]
+- [[The Coming Loop]]
+
 # 5/19/26
 - [[AI writes terrible tests]]
 

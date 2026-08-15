@@ -5,6 +5,13 @@ tags:
 - [[Parse, don't validate]]
 - [[Functional Core, Imperative Shell]]
 
+# 8/11/26
+- [[Design tokens]]
+
+# 8/10/26
+- [[Don't use null to represent state]]
+- [[Don't use errors as control flow]]
+
 # 6/12/26
 - [[What's wrong with a lil IIFE, as a treat?]]
 
