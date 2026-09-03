@@ -1,7 +1,27 @@
 ---
 tags:
   - public
+modified: 2026-09-02T07:48:25-07:00
 ---
+# 9/3/26
+Sometimes, I hear people repping some of the decentralized or federated options like Bluesky and Mastadon. But both of those networks seemed to elicit the exact same negative feelings in me that the old places I used to roam do.
+
+I do still miss the idea of connecting more easily with people who share my interests around the world. And I miss the idea that I'm "building an audience" for my game releases. But, at this point I still feel like I've made the right trade for my own health.
+
+# 9/2/26
+I am glad to no longer be on social media still. 
+
+I've encountered a few situations where people will reference some trend from Instagram or TikTok and I will have no idea what they're talking about. I was very much on the inside for a lot of this sort of trend in my earlier Twitter era. It's pretty fascinating to be on the outside looking into that sort of thing now.
+
+Not having social media accounts, I've become sort of annoyed any time someone shares a link from any of them. They're so much more annoying to just view the video or whatever than any other sort of link people share with me. For one, its always a video these days, so I have to stop what I'm doing to fully focus on the thing to understand anything about it. I would really rather be linked text. Secondly, you cannot play any of these videos in your chat app. You have to follow a link. That link will try to coerce you into signing up or signing in. It will be unclear if you even can view the video without doing so. Then, when you finally dismiss all the pop ups, you'll see some pointless 15 second video clip that feels hardly worth the effort. I mostly don't follow these links when I'm sent them these days... Sorry!
+
+I have definitely replaced the compulsions that used to come from scrolling social media with checking other things. I check my RSS reader feed way more frequently than it could possible have updates. I refresh my email app hoping for a new piece of spam. I am frequently checking for the "new message" indicator on my Discord servers. I am _still_ going to LinkedIn for unknown reasons. 
+
+On top of all this, I am watching Twitch and YouTube as much as ever. This is all almost certainly just as much a "waste" of my time as my consumption of social media ever was. 
+
+I _do_ feel like the places I engage now are soooooo much less designed to cause me rage, frustration, and anger. I very much appreciate that the things I've left in my life are places I've opted into following creators (except for LinkedIn, what is wrong with me?) who make content I find interesting.
+
+I think my infinite scrolling habits and watching of lots of pointless game live streams are maybe more symptomatic of other feelings that problems in their own right. Put another way – when I removed my previous "addictions" I just substituted new ones. I'm still happier with my changes, so I think it was worth doing.
 
 # 12/31/25
 I've been through a few phases of cutting social media out of my life now. I'm pretty happy with how it has gone. I have no plans to return.

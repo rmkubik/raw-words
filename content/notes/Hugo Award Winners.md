@@ -6,6 +6,7 @@ modified: 2026-06-25T19:25:42-07:00
 
 | Read | Year | Book                                    | Author                            |
 | ---- | ---- | --------------------------------------- | --------------------------------- |
+|      | 2026 | [[The Everlasting]]                     | Alix E Harrow                     |
 | ✅    | 2025 | [[The Tainted Cup]]                     | Robert Jackson Bennett            |
 | ✅    | 2024 | [[Some Desperate Glory]]                | Emily Tesh                        |
 | ✅    | 2023 | [[Nettle & Bone]]                       | Ursula Vernon (T Kingfisher)      |

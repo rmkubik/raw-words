@@ -3,6 +3,10 @@ tags:
   - public
 modified: 2026-05-25T21:44:39-07:00
 ---
+# 8/24/26
+This was an interesting retrospective article about running a creative community called "Playspace". I'd like to take some lessons from this. Its the kind of event I'd like to have for myself, I think:
+- https://jzhao.xyz/thoughts/Playspace
+
 # 5/5/26
 - [[The missing stair]]
 

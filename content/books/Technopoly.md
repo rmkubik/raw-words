@@ -4,6 +4,18 @@ tags:
 status: reading
 modified: 2026-07-03T09:04:44-07:00
 ---
+# 8/31/26
+Read ch. 4 now
+- I find the opening example weak. The social science of experiment of lying to colleagues about science related facts feels weird. I do like the idea that we are just as credulous as we were in the Middle Ages. It’s just that we’ve subbed science for religion. Of course none of us know how most things work. We all have our focuses. This test to me is more about just trusting my colleagues not to lie to my face.
+- he’s talking about the consequences of having too much information. This is why we don’t have core beliefs about what is true in science. There is way way way too much for us to know at all.
+- information crisis started with the printing press
+- schools surged in popularity around the time of the press too. Maybe a century or two after I guess? Didn’t know this but makes some sense
+- Schools are “technocracies first secular beauracracies”
+- The Control Revolution
+- technology has severed the connection between information and its purpose. It is its own commodity that serves to have more of it faster. We are bombareded hy junk mail and ads and newspapers and billboards and signs. Constant streams of information of no value to us.
+- we believe cultures suffer from lack of information so we must get more more more. But we’re only just starting to understand how we suffer from information glut as well
+- Information without meaning and without control mechanisms (a school curriculum is a control mechanism example) causes us suffering
+
 # 7/3/26
 Chapter 2 is about humanity's transition from Tool Using society to Technocracy to set the stage for our current transition to Technolopoy.
 

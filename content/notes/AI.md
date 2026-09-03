@@ -3,6 +3,17 @@ tags:
   - public
 modified: 2026-08-15T16:06:07-07:00
 ---
+# 8/24/26
+I have a bunch of links open that I read a while back and didn't take notes on. I want to close them out, so I'm just going to dump them here without notes.
+- https://geohot.github.io/blog/jekyll/update/2026/05/24/the-eternal-sloptember.html
+- https://hbr.org/2026/08/how-much-time-do-your-employees-spend-botsitting
+- https://www.honeycomb.io/blog/spend-more-time-talking-to-humans
+- https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html
+- https://brettcodes.com/im-done-using-ai/
+- https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing
+- https://declaude.org/watermarking/
+- https://daringfireball.net/linked/2026/08/11/economist-ai-writing
+
 # 8/14/26
 - [[I didn't realize what kind of threat "you'll be replaced by someone who uses AI" was]]
 - [[Tabs, Spaces, Hand tools, and Seat belts]]
