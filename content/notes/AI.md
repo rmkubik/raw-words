@@ -1,8 +1,12 @@
 ---
 tags:
   - public
-modified: 2026-08-15T16:06:07-07:00
+modified: 2026-09-18T21:16:08-07:00
 ---
+# 9/18/26
+- https://ludic.mataroa.blog/blog/brainwash-an-executive-today/
+- 
+
 # 8/24/26
 I have a bunch of links open that I read a while back and didn't take notes on. I want to close them out, so I'm just going to dump them here without notes.
 - https://geohot.github.io/blog/jekyll/update/2026/05/24/the-eternal-sloptember.html

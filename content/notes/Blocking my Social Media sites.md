@@ -1,7 +1,7 @@
 ---
 tags:
   - public
-modified: 2026-09-02T07:48:25-07:00
+modified: 2026-09-03T07:45:57-07:00
 ---
 # 9/3/26
 Sometimes, I hear people repping some of the decentralized or federated options like Bluesky and Mastadon. But both of those networks seemed to elicit the exact same negative feelings in me that the old places I used to roam do.

@@ -1,7 +1,7 @@
 ---
 tags:
   - public
-modified: 2026-06-25T19:25:42-07:00
+modified: 2026-09-25T18:33:52-07:00
 ---
 
 | Read | Year | Book                                    | Author                            |
@@ -19,7 +19,7 @@ modified: 2026-06-25T19:25:42-07:00
 | ✅    | 2016 | [[The Fifth Season]]                    | N. K. Jemison                     |
 |      | 2015 | [[The Three-Body Problem]]              | Cixin Liu (Translated by Ken Liu) |
 | ✅    | 2014 | [[Ancillary Justice]]                   | Ann Leckie                        |
-|      | 2013 | [[Redshirts]]                           | John Scalzi                       |
+| ✅    | 2013 | [[Redshirts]]                           | John Scalzi                       |
 |      | 2012 | [[Among Others]]                        | Jo Walton                         |
 |      | 2011 | [[Blackout + All Clear]]                | Connie Willis                     |
 |      | 2010 | [[The Windup Girl]]                     | Paolo Bacigalupi                  |
@@ -63,12 +63,12 @@ modified: 2026-06-25T19:25:42-07:00
 |      | 1974 | [[Rendezvous with Rama]]                | Arthur C. Clarke                  |
 |      | 1973 | [[The Gods Themselves]]                 | Isaac Asimov                      |
 |      | 1972 | [[To Your Scattered Bodies Go]]         | Philip Jose Farmer                |
-|      | 1971 | [[Ringworld]]                           | Larry Niven                       |
+| ✅    | 1971 | [[Ringworld]]                           | Larry Niven                       |
 | ✅    | 1970 | [[The Left Hand of Darkness]]           | [[Ursula K Leguin]]               |
 |      | 1969 | [[Stand on Zanzibar]]                   | John Brunner                      |
 | ✅    | 1968 | [[Lord of Light]]                       | Roger Zelazny                     |
 |      | 1967 | [[The Moon is a Harsh Mistress]]        | Rober A. Heinlein                 |
-|      | 1966 | [[books/Dune\|Dune]]                    | Frank Herbert                     |
+| ✅    | 1966 | [[books/Dune\|Dune]]                    | Frank Herbert                     |
 |      | 1966 | [[...And Call Me Conrad]]               | Roger Zelazny                     |
 |      | 1965 | [[The Wanderer]]                        | Fritz Leiber                      |
 |      | 1964 | [[Here Gather the Stars]]               | Clifford D. Simak                 |
