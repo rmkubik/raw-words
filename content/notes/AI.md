@@ -1,8 +1,11 @@
 ---
 tags:
   - public
-modified: 2026-09-18T21:16:08-07:00
+modified: 2026-10-31T09:16:11-07:00
 ---
+# 10/31/26
+- [[LLM programming and theory building]]
+
 # 10/28/26
 - [[What is the point of AI generated unit test suites]]
 - [[Tools intended to convey information to humans are being co-opted by LLMs]]
