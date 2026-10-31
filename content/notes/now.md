@@ -1,7 +1,7 @@
 ---
 tags:
   - public
-modified: 2026-10-03T07:51:13-07:00
+modified: 2026-10-03T08:18:02-07:00
 ---
 ## living
 I'm living in Portland, OR. 

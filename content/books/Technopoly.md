@@ -4,6 +4,15 @@ tags:
 status: reading
 modified: 2026-07-03T09:04:44-07:00
 ---
+# 10/28/26
+It’s funny reading this book, a lot of it is kinda reading like he just hates the American character and culture haha.
+
+Lots of quotes and perspectives about how we’re uniquely susceptible to worshipping technology.
+
+# 10/13/26
+Had a thought about this recently. Sometimes we talk about people being too informed by watching news on social media. They don’t do anything with the news, but now they feel worse. This reminds me of Neil’s idea of information having value for its own sake in a Technopoly. There’s no reason for you to know more about it. You feel like you should. Information has value all on its own. But it comes with costs. It distracts you from your life. Makes you feel bad. It isn’t actionable.
+
+
 # 8/31/26
 Read ch. 4 now
 - I find the opening example weak. The social science of experiment of lying to colleagues about science related facts feels weird. I do like the idea that we are just as credulous as we were in the Middle Ages. It’s just that we’ve subbed science for religion. Of course none of us know how most things work. We all have our focuses. This test to me is more about just trusting my colleagues not to lie to my face.

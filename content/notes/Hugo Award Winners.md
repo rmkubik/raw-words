@@ -1,7 +1,7 @@
 ---
 tags:
   - public
-modified: 2026-09-25T18:33:52-07:00
+modified: 2026-10-20T18:47:38-07:00
 ---
 
 | Read | Year | Book                                    | Author                            |
@@ -47,8 +47,8 @@ modified: 2026-09-25T18:33:52-07:00
 | ✅    | 1990 | [[Hyperion]]                            | Dan Simmons                       |
 |      | 1989 | [[Cyteen]]                              | C. J. Cherryh                     |
 |      | 1988 | [[The Uplift War]]                      | David Brin                        |
-|      | 1987 | [[Speaker for the Dead]]                | Orson Scott Card                  |
-|      | 1986 | [[Ender's Game]]                        | Orson Scott Card                  |
+| ✅    | 1987 | [[Speaker for the Dead]]                | Orson Scott Card                  |
+| ✅    | 1986 | [[Ender's Game]]                        | Orson Scott Card                  |
 | ✅    | 1985 | [[Neuromancer]]                         | William Gibson                    |
 |      | 1984 | [[Startide Rising]]                     | David Brin                        |
 |      | 1983 | [[Foundation's Edge]]                   | Isaac Asimov                      |
@@ -74,7 +74,7 @@ modified: 2026-09-25T18:33:52-07:00
 |      | 1964 | [[Here Gather the Stars]]               | Clifford D. Simak                 |
 | ✅    | 1963 | [[The Man in the High Castle]]          | Philip K. Dick                    |
 |      | 1962 | [[Stranger in a Strange Land]]          | Rober A. Heinlein                 |
-|      | 1961 | [[A Canticle for Leibowitz]]            | Walter M. Miller, Jr.             |
+| ✅    | 1961 | [[A Canticle for Leibowitz]]            | Walter M. Miller, Jr.             |
 | ✅    | 1960 | [[Starship Troopers]]                   | Rober A. Heinlein                 |
 |      | 1959 | [[A Case of Conscience]]                | James Blish                       |
 |      | 1958 | [[The Big Time]]                        | Fritz Leiber                      |

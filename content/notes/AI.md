@@ -3,9 +3,12 @@ tags:
   - public
 modified: 2026-09-18T21:16:08-07:00
 ---
+# 10/28/26
+- [[What is the point of AI generated unit test suites]]
+- [[Tools intended to convey information to humans are being co-opted by LLMs]]
+
 # 9/18/26
 - https://ludic.mataroa.blog/blog/brainwash-an-executive-today/
-- 
 
 # 8/24/26
 I have a bunch of links open that I read a while back and didn't take notes on. I want to close them out, so I'm just going to dump them here without notes.

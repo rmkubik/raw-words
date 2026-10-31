@@ -1,7 +1,13 @@
 ---
 tags:
   - public
+modified: 2026-10-11T20:24:23-07:00
 ---
+# 10/11/26
+The [[Lightbulb Computer]] is VERY exciting to me! I think it is kind of just a snazzier demo page for a Folk Gadget, in a way. I think the use cases on the lightbulb computer are super staged, but they are still super interesting to me.
+
+What if I did buy a nice laser projector for our media room and then I could start using that laser projector to start messing around with things like this.
+
 # 3/13/26
 I did some research into projectors and didn't really come to any conclusions. I did look at a few different sorts of categories:
 - I'm kinda just generally into a smaller portable projector. I don't think I need or want this in real life. But, the idea is that you could take it with you to a hotel or wherever you want really and easily project on a wall. It seems kinda cool. I think maybe these projectors just aren't actually very good though.
