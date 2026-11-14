@@ -2,6 +2,9 @@
 tags:
   - public
 ---
+# 11/14/26
+- [[Everything is performative]]
+
 # 3/16/26
 I think another reason I have this note category is that I find the idea of Philosophy interesting. I like the idea of thinking about thinking. Or considering what other things may be going on besides the obvious.
 
