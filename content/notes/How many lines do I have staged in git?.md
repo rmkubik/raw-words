@@ -8,3 +8,4 @@ tags:
 ```sh
 git --no-pager diff --staged --shortstat
 ```
+
